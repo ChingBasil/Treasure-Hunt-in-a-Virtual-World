@@ -1,0 +1,1 @@
+A grid-based treasure hunt game where players navigate through a virtual world, avoiding traps and collecting treasures. The game involves strategic pathfinding to reach the treasures while managing risks from traps. Includes reward systems to ease the exploration.
